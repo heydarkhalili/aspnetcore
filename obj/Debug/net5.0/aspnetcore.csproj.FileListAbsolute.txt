@@ -1,0 +1,16 @@
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.exe
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.deps.json
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.runtimeconfig.json
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.runtimeconfig.dev.json
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.dll
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\ref\aspnetcore.dll
+C:\Users\Arman\desktop\aspnetcore\bin\Debug\net5.0\aspnetcore.pdb
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.csprojAssemblyReference.cache
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.AssemblyInfoInputs.cache
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.AssemblyInfo.cs
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.csproj.CoreCompileInputs.cache
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.dll
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\ref\aspnetcore.dll
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.pdb
+C:\Users\Arman\desktop\aspnetcore\obj\Debug\net5.0\aspnetcore.genruntimeconfig.cache
